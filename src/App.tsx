@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import HoursList from './components/HoursList';
 import OpenToday from './components/OpenToday';
